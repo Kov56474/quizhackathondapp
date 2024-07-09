@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of video game genres with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which genre focuses on puzzles?",
+      "answers": ["Puzzle", "RPG", "Action"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which genre is known for storytelling?",
+      "answers": ["RPG", "Shooter", "Sports"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which genre involves strategic thinking?",
+      "answers": ["Strategy", "Action", "Racing"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre involves racing?",
+      "answers": ["Racing", "RPG", "Puzzle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre focuses on sports?",
+      "answers": ["Sports", "Action", "Shooter"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is fast-paced combat?",
+      "answers": ["Action", "Puzzle", "RPG"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre involves shooting?",
+      "answers": ["Shooter", "Racing", "Puzzle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is open-world?",
+      "answers": ["Sandbox", "Shooter", "Sports"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre focuses on survival?",
+      "answers": ["Survival", "Sports", "RPG"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre involves rhythm?",
+      "answers": ["Rhythm", "Puzzle", "Shooter"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is multiplayer online?",
+      "answers": ["MOBA", "Action", "Sports"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre involves building?",
+      "answers": ["Builder", "Shooter", "Puzzle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre involves fighting?",
+      "answers": ["Fighter", "Sports", "Puzzle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre includes horror?",
+      "answers": ["Horror", "Racing", "Sports"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre involves platforming?",
+      "answers": ["Platform", "Shooter", "Puzzle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre involves stealth?",
+      "answers": ["Stealth", "Sports", "Racing"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre focuses on exploration?",
+      "answers": ["Adventure", "Puzzle", "Shooter"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is text-based?",
+      "answers": ["Text", "Shooter", "Racing"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre involves simulation?",
+      "answers": ["Sim", "Shooter", "Sports"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which genre is a mix of genres?",
+      "answers": ["Hybrid", "Puzzle", "Shooter"],
       "correctAnswerIndex": 0
     }
   ]
